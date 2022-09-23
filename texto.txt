@@ -1,1 +1,4 @@
 Archivo de prueba de ramas
+
+Este es un texto para probar la edición después de haber mergeado las ramas
+
